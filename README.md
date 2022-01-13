@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=RBoelter)
+
 <!--
 **RBoelter/RBoelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RBoelter&show_icons=true&hide_rank=true&theme=tokyonight)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
