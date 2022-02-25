@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RBoelter&show_icons=true&hide_rank=true&theme=tokyonight)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
